@@ -1,0 +1,14 @@
+{
+  "name": "spambot",
+  "version": "1.0.0",
+  "description": "Spams the mentioned user.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Facto",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
